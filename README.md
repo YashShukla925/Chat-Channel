@@ -145,10 +145,6 @@ We welcome contributions to this project! To contribute, follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 
 - [Django](https://www.djangoproject.com/)
@@ -157,7 +153,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or support, please contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries or support, please contact [yashshuklabhadohi@gmail.com](yashshuklabhadohi@gmail.com).
 
 ---
 
